@@ -61,3 +61,15 @@ table {
     width: 100%;
     text-align: left;
 }
+
+.presultado, .bad{
+  background-color: aqua;
+  text-align: center;
+  padding: 5px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.bad {
+  background-color: red;
+}
